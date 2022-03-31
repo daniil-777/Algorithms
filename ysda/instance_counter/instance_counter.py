@@ -1,0 +1,2 @@
+class InstanceSemaphore(type):
+    pass

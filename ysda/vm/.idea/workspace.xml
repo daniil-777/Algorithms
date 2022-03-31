@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a602f6b7-27ed-42a2-82ec-ba3a040b3410" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../biletik/biletik.py" beforeDir="false" afterPath="$PROJECT_DIR$/../biletik/biletik.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../biletik/test_public.py" beforeDir="false" afterPath="$PROJECT_DIR$/../biletik/test_public.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../british_scientists/british_scientists.py" beforeDir="false" afterPath="$PROJECT_DIR$/../british_scientists/british_scientists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caesar_cipher/caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caesar_cipher/caesar_cipher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caesar_cipher/test_public.py" beforeDir="false" afterPath="$PROJECT_DIR$/../caesar_cipher/test_public.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../check_deco/check_deco.py" beforeDir="false" afterPath="$PROJECT_DIR$/../check_deco/check_deco.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../compgraph/algorithms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../compgraph/algorithms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../compgraph/resource/text_corpus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../compgraph/resource/text_corpus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../compgraph/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../compgraph/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter_utils/counter_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../counter_utils/counter_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dna/dna.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dna/dna.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fantics/fantics.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fantics/fantics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fibonacci/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fibonacci/fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../field_initializer/field_initializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../field_initializer/field_initializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fizz_buzz/fizz_buzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fizz_buzz/fizz_buzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fizz_buzz/test_public.py" beforeDir="false" afterPath="$PROJECT_DIR$/../fizz_buzz/test_public.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flat_it/flat_it.py" beforeDir="false" afterPath="$PROJECT_DIR$/../flat_it/flat_it.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forgotten_password/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../forgotten_password/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forgotten_password/forgotten_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/../forgotten_password/forgotten_password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git_log/git_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/../git_log/git_log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello_world/hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hello_world/hello_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hist/hist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hist/hist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kruchu_verchu/kruchu_verchu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../kruchu_verchu/kruchu_verchu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../life_game/life_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/../life_game/life_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luck/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../luck/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../luck/luck.py" beforeDir="false" afterPath="$PROJECT_DIR$/../luck/luck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../palindromes/palindromes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../palindromes/palindromes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../password/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../password/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../password/password.py" beforeDir="false" afterPath="$PROJECT_DIR$/../password/password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perfection/perfection.py" beforeDir="false" afterPath="$PROJECT_DIR$/../perfection/perfection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinguins/pinguins.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pinguins/pinguins.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plummet/plummet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../plummet/plummet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../profiler/profiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../profiler/profiler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../property_maker/property_maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/../property_maker/property_maker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pump_and_dump/pump_and_dump.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pump_and_dump/pump_and_dump.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quick_sort/quick_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../quick_sort/quick_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rgb/rgb.py" beforeDir="false" afterPath="$PROJECT_DIR$/../rgb/rgb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roi/roi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../roi/roi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seconds_diff/seconds_diff.py" beforeDir="false" afterPath="$PROJECT_DIR$/../seconds_diff/seconds_diff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../strings/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../strings/strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../translation_chains/translator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../translation_chains/translator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unique_elements/unique_elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/../unique_elements/unique_elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cases.py" beforeDir="false" afterPath="$PROJECT_DIR$/cases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vm.py" beforeDir="false" afterPath="$PROJECT_DIR$/vm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../volatility/volatility.py" beforeDir="false" afterPath="$PROJECT_DIR$/../volatility/volatility.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-685253258">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="8" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+          <entry key="py" value="21" />
+          <entry key="pyi" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="Python" value="21" />
+          <entry key="PythonStub" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="5465" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="5465" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-1115880564/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="72" column="4" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oldvm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backup1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1275">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/opcode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newapproacd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8160">
+              <caret line="553" column="20" selection-start-line="553" selection-start-column="13" selection-end-line="553" selection-end-column="20" />
+              <folding>
+                <element signature="e#137#184#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/operator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1395">
+              <caret line="93" selection-start-line="93" selection-end-line="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/site-packages/_pytest/logging.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3270">
+              <caret line="228" column="8" selection-start-line="228" selection-start-column="8" selection-end-line="228" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vm_scorer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/site-packages/py/_code/code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3225">
+              <caret line="217" column="23" selection-start-line="217" selection-start-column="23" selection-end-line="217" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cells</find>
+      <find>code_obj</find>
+      <find>BINARY</find>
+      <find>mana</find>
+      <find>rshift</find>
+      <find>call_f</find>
+      <find>RETURN_VALUE</find>
+      <find>UNARYO</find>
+      <find>UN</find>
+      <find>COMPARE_OP</find>
+      <find>GET_ITER</find>
+      <find>byte_BUi</find>
+      <find>popn</find>
+      <find>make_fum</find>
+      <find>DELETE_NAME</find>
+      <find>make_fu</find>
+      <find>ROT_TWO</find>
+      <find>POP_BLOCK</find>
+      <find>FUNCTIO</find>
+      <find>BUID_L</find>
+      <find>POP_EXCEPT</find>
+      <find>STORE_SUBSC</find>
+      <find>i.</find>
+      <find>STORE_A</find>
+      <find>ANNOT</find>
+      <find>run_vm</find>
+      <find>Executor</find>
+      <find>Run</find>
+      <find>import .vm</find>
+      <find>PRINT</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>PRINT_EXPR</replace>
+      <replace>instruction</replace>
+      <replace>instruction.</replace>
+      <replace>Runner</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/check.py" />
+        <option value="$PROJECT_DIR$/test_public.py" />
+        <option value="$PROJECT_DIR$/cases.py" />
+        <option value="$PROJECT_DIR$/help.py" />
+        <option value="$PROJECT_DIR$/backup.py" />
+        <option value="$PROJECT_DIR$/backup1.py" />
+        <option value="$PROJECT_DIR$/newapproacd.py" />
+        <option value="$PROJECT_DIR$/vm_scorer.py" />
+        <option value="$PROJECT_DIR$/oldvm.py" />
+        <option value="$PROJECT_DIR$/vm.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="59" />
+    <option name="width" value="1260" />
+    <option name="height" value="697" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.vm">
+    <configuration name="check" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="vm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="help" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="vm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/help.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="vm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.check" />
+      <item itemvalue="Python.help" />
+      <item itemvalue="Python.vm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.vm" />
+        <item itemvalue="Python.help" />
+        <item itemvalue="Python.check" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a602f6b7-27ed-42a2-82ec-ba3a040b3410" name="Default Changelist" comment="" />
+      <created>1538239647066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538239647066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="59" width="1260" height="697" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939467" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289256" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-715">
+          <caret line="135" column="14" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/types.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-377" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="435">
+            <caret line="29" column="33" selection-start-line="28" selection-start-column="8" selection-end-line="29" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_public.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="62" column="14" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="152" column="20" selection-start-line="152" selection-start-column="20" selection-end-line="152" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/help.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/dis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3405">
+          <caret line="233" selection-start-line="233" selection-end-line="233" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-1115880564/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="4" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oldvm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/opcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newapproacd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8160">
+          <caret line="553" column="20" selection-start-line="553" selection-start-column="13" selection-end-line="553" selection-end-column="20" />
+          <folding>
+            <element signature="e#137#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/operator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/site-packages/_pytest/logging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3270">
+          <caret line="228" column="8" selection-start-line="228" selection-start-column="8" selection-end-line="228" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vm_scorer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/site-packages/py/_code/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3225">
+          <caret line="217" column="23" selection-start-line="217" selection-start-column="23" selection-end-line="217" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

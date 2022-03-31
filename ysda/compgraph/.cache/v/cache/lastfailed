@@ -1,0 +1,7 @@
+{
+  "test_public.py::test_pmi": true,
+  "test_public.py::test_tf_idf": true,
+  "test_public.py::test_word_count": true,
+  "test_public.py::test_word_count_multiple_call": true,
+  "test_public.py::test_yandex_maps": true
+}

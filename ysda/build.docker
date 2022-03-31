@@ -1,0 +1,21 @@
+FROM ubuntu:17.10
+
+RUN echo "Don't use cache #5" > /.force_full_rebuild
+
+RUN apt-get clean && apt-get update
+
+RUN apt-get install -y \
+    python3.6=3.6.3-1ubuntu1 \
+    python3-pip \
+    wget \
+    git
+
+RUN pip3 install --upgrade \
+    pycodestyle==2.4.0 \
+    PyYAML==3.13 \
+    docopt==0.6.2 \
+    requests==2.19.1 \
+    numpy==1.15.2 \
+    pytest==3.7.3 \
+    click==7.0 \
+    pandas==0.23.4
